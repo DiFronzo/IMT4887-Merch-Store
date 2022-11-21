@@ -266,6 +266,9 @@
     "https://esm.sh/v99/use-sync-external-store@1.2.0/X-YS9yZWFjdDpwcmVhY3QvY29tcGF0CmUvcHJlYWN0L2NvbXBhdA/deno/cjs/use-sync-external-store-shim.production.min.js": "ba357a863956ca4de05130c19498e4e04e22715577b0b317235f3a1b633b18db",
     "https://esm.sh/v99/use-sync-external-store@1.2.0/X-YS9yZWFjdDpwcmVhY3QvY29tcGF0CmUvcHJlYWN0L2NvbXBhdA/deno/shim/index.js": "44311585593d67391177f81570ca9cd106b1fac2df6a8c8880be11830d35646c",
     "https://raw.githubusercontent.com/GoogleChrome/dialog-polyfill/5033aac1b74c44f36cde47be3d11f4756f3f8fda/dist/dialog-polyfill.esm.js": "18db62215a0d3141b411c1e15df3c6ff97c8e774afad9625af91c0ff9566352c",
+    "https://unpkg.com/@twind/aspect-ratio@0.1.4/aspect-ratio.d.ts": "c68df8814ab1512b316e48c78bec260b9fce1f7db3a22edfad7e687171d5af75",
+    "https://unpkg.com/@twind/aspect-ratio@0.1.4/aspect-ratio.js": "0dc575359738c7fd4ba8029b7bc337f01d16ab12aa00a2089af08176a9522a2e",
+    "https://unpkg.com/@twind/aspect-ratio@0.1.4/aspect-ratio.umd.js": "0a20c5de2a8336691f49c13db1cfa0ce80a00acadfd8bdec91e8dde618df5ff0",
     "https://unpkg.com/esbuild-wasm@0.14.39/esm/browser.js": "d9c7265172400e472ff8ca82fe426ba981bc09c83187c91682373d3dbd22c062"
   }
 }
