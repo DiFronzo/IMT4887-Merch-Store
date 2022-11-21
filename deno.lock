@@ -223,6 +223,14 @@
     "https://esm.sh/v94/twind@0.16.16/sheets/sheets.d.ts": "63954e8db68432da63e554583cb88dda0c85e4c10c22923d91bfb010b9176913",
     "https://esm.sh/v94/twind@0.16.16/twind.d.ts": "01365bd6035e21d9cd434f0f5d8210367bf8302cf45109b56a1df1c7bf1f3e4f",
     "https://esm.sh/v94/twind@0.16.17/deno/twind.js": "e9eedc9ad34213fdd517a239b55749d97d32f14915372964443a05df8482f713",
+    "https://esm.sh/v99/@twind/aspect-ratio@0.1.4": "40ea44d7a94ea8a5309f817498d1c8a87f77e0ea5bb013e9e158959aba1e0918",
+    "https://esm.sh/v99/@twind/aspect-ratio@0.1.4/aspect-ratio.d.ts": "c68df8814ab1512b316e48c78bec260b9fce1f7db3a22edfad7e687171d5af75",
+    "https://esm.sh/v99/@twind/aspect-ratio@0.1.4/deno/aspect-ratio.js": "1c350ce3ff0e1fbbad1d55d9f1cbcfc78fdebb493bf7b52eb12334fee7dc90f5",
+    "https://esm.sh/v99/@twind/aspect-ratio@0.1.4/es2022/aspect-ratio.js": "a1dd2c6087a11f1e4b76af9c8febdf8431b5edad154f1af1b634d152499d36d2",
+    "https://esm.sh/v99/@twind/core@1.0.1/deno/core.js": "f722c9dee634a611b7216a506e96836d81a89ae880f5146046274dcb7514cf9d",
+    "https://esm.sh/v99/@twind/core@1.0.1/es2022/core.js": "4416ff64319b7a80aecdb123fdac3234a93305942aef9056a9b3570915b5fdeb",
+    "https://esm.sh/v99/twind@1.0.1/deno/twind.js": "7d88d9617918efe8c4ec4edd597815fdab320bab14e66132a4f999de6803c0e4",
+    "https://esm.sh/v99/twind@1.0.1/es2022/twind.js": "465687fec13af5fd1bfee01c01d9fb990547b551b542c6b38c5c59d495bd536d",
     "https://raw.githubusercontent.com/GoogleChrome/dialog-polyfill/5033aac1b74c44f36cde47be3d11f4756f3f8fda/dist/dialog-polyfill.esm.js": "18db62215a0d3141b411c1e15df3c6ff97c8e774afad9625af91c0ff9566352c",
     "https://unpkg.com/esbuild-wasm@0.14.39/esm/browser.js": "d9c7265172400e472ff8ca82fe426ba981bc09c83187c91682373d3dbd22c062"
   }
